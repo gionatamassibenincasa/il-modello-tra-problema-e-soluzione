@@ -17,7 +17,8 @@ loop Per ogni problema //P//
     C -> C: Discute le risposte
     I -> C: Illustra la soluzione naïf
     I -> G: Propone la sfida complessa
-    G -> S: Elabora e consegna la soluzione, decide il bonus/malus
+    G -> S: Elabora e consegna la soluzione
+    G -> S: Sceglie importo bonus/malus
     G -> C: Espone il processo risolutivo
     S -> C: Aggiorna la classifica
     I -> C: Spiega la teoria e formula il **modello**

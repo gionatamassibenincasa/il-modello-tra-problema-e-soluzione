@@ -12,7 +12,7 @@
     background-repeat: no-repeat;
     background-position: center;
     display: inline-block;
-    height: 8em;
-    width: 8em;
+    height: 9em;
+    width: 9em;
 }
 </style>
