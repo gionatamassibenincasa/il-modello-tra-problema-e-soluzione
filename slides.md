@@ -97,14 +97,12 @@ Una sintesi di:
 
 sviluppata sui problemi decisionali.
 
-<!-- La proposta metodologica fonde elementi di:
-- *lezione segmentata*, per massimizzare efficacia;
-- *Problem-Based Learning* (PBL) con risposte oggettivamente
+<!-- La proposta metodologica integra elementi ed idee provenienti da:
+- *lezione segmentata*, per massimizzare efficacia didattica nel rispetto dei tempi attenzione degli studenti;
+- *Problem-Based Learning*, adattattato alle scienze che hanno risposte oggettivamente
 verificabili;
-- *gamification* arricchita da un meccanismo di scommessa che funge da incentivo; infine,
-- stimola la *metacognizione*, attraverso la *reflessione cognitiva* sia
-implicitamente, tramite esercizi di modellazione e un meccanismo di
-scommesse, sia esplicitamente durante la discussione. -->
+- *gamification*, per aumentare il coinvolgimento e la partecipazione attiva degli studenti, e infine,
+- uno stimolo costante alla riflessione sul processo di apprendimento, *active recall*, realizzato sia con domande frequenti ed esposizioni rapide degli studenti, sia tramite un meccanismo di bonus e malus, chiamato impropriamente *scommessa*. -->
 
 ---
 layout: default
@@ -117,6 +115,13 @@ layout: default
    ![Regole del gioco](./assets/1_init.svg){width=70%, title="Regole del gioco"}
 
 </div>
+
+<!-- Il corso diventa un *gioco serio*, in cui ogni partecipante ha una dotazione iniziale di 1000 *dobloni* e guadagna dobloni rispondendo correttamente a domande individuali. I partecipanti collaborano in squadra alla risoluzione di problemi e, insieme al proprio gruppo, possono *scommetterne* da 10 a 200 dobloni sulla qualità della propria soluzione, con la possibilità di incrementare o ridurre la propria
+dotazione in base all'esito.
+
+Per l'esperienza descritta, sono state formate quattro squadre di quattro studenti ciascuna, con composizione casuale e invariata per tutta la durata del corso.
+
+Il sistema di feedback con i nomi degli studenti, i gruppi, il punteggio dei singoli e il punteggio della squadra, dato dal punteggio medio degli studenti, è stato realizzato con un foglio di calcolo condiviso. -->
 
 ---
 hideInToc: true
@@ -131,11 +136,17 @@ layout: default
 
 </div>
 
-<!--
-Questo impianto si traduce in un *serious game*, in cui ogni partecipante ha una dotazione iniziale di 1000 *dobloni* e guadagna dobloni rispondendo correttamente a domande individuali. I partecipanti collaborano in squadra alla risoluzione di problemi e, insieme al proprio gruppo, possono *scommetterne* da 10 a 200 dobloni sulla qualità della propria soluzione, con la possibilità di incrementare o ridurre la propria
-dotazione in base all'esito.
+<!-- La progressione didattica, approssimativamente, è quella presentata nel diagramma, nel quale andrebbe inserito l'attore "Tutor" che aggiorna il sistema di feedback.
 
-Per l'esperienza descritta, sono state formate quattro squadre di quattro studenti ciascuna, con composizione casuale e invariata per tutta la durata del corso.
+L'idea è quella di procedere per problemi, che possono ripetersi nel tipo, ad esempio il problema dello zaino che vedremo nel dettaglio.
+Il problema necessita di una introduzione breve, che definisce i termini e i concetti di base. Segue immediatamente una verifica dei concetti appena esposti *esercizi attivi*, ad esempio quiz. Il sistema di feedback fornisce il meccanisco per *capire se ho capito* e una discussione aperta a tutta la classe per determinare le risposte corrette.
+Arriva il momento di sintetizzare e viene presentata dal formatore la soluzione *naïf*.
+Agli studenti dovrebbe risultare che ora sono in grado di risolvere problemi reali! Ma non sarà sempre così perché abbiamo problemi difficili, *ardui*, che richiedono strategie algoritmiche non banali.
+Per farlo capire, il formatore propone una sfida complessa, ad esempio aumentando la dimensione dell'istanza del problema. 
+Gli studenti lavorano in gruppo per un tempo di risoluzione di circa 25/30 minuti, trovano una soluzione e riflettono sulla bontà della loro proposta.
+Al termine viene richiesto ad ogni gruppo di dire come hanno risolto il problema e come hanno valutato la loro soluzione.
+La classifica viene aggiornata ma resta l'incognita dei conoscere quale sia la migliore soluzione possibile.
+Qui interviene di nuovo il formatore per illustrare il modello e/o l'algoritmo, e poi il *risolutore* che ci fornisce la soluzione ottima.
 -->
 
 ---
@@ -150,6 +161,8 @@ layout: itadinfo
 - Problema del mix ottimo di produzione
 - Problema della dieta di costo minimo
 
+<!-- Si presentano alcuni problemi. Ogni problema può essere affrontato con un livello di dettaglio diverso, con un approccio a SPIRALE, come vedremo nel caso del problema dello zaino.
+I problemi sono classici problemi di decisione. -->
 ---
 layout: default
 ---

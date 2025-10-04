@@ -1,12 +1,13 @@
 <template>
     <div absolute bottom-5 right-0 left-0 text-center class="footer-container">
-        <div class="logo-itadinfo"></div>
+        <div class="logo-itadinfo">
+          <img src="/assets/itadinfo-notag.svg" alt="Logo ITADINFO" />
+        </div>
     </div>
 </template>
 
 <style lang="css" scoped>
 .logo-itadinfo {
-    background-image: url('./assets/itadinfo-notag.svg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;

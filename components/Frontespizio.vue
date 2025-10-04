@@ -2,6 +2,7 @@
 import Autori from './Autori.vue';
 import Piede from './Piede.vue';
 import Titolo from './Titolo.vue';
+import QR from './QR.vue';
 </script>
 
 <template>
@@ -11,8 +12,8 @@ import Titolo from './Titolo.vue';
       <Autori />
     </div>
   </div>
+  <QR />
   <Piede />
 </template>
 
-<style lang="css" scoped>
-</style>
+<style lang="css" scoped></style>

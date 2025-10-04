@@ -4,9 +4,9 @@ title Fasi didattiche
 ' autonumber
 
 participant "Sist. Feedback" as S
-participant "Formatore" as I
-participant "Squadre" as G
-participant "Studenti" as C
+actor "Formatore" as I
+actor "Squadre" as G
+actor "Studenti" as C
 
 S -> C: Punteggio iniziale e formazione squadre
 
