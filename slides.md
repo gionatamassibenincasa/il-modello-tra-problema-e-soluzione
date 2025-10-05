@@ -38,7 +38,7 @@ layout: itadinfo
 
 # Contesto
 
-- DM 65/2025
+- DM 65/2023
    - Potenziamento delle competenze STEM
    - Linee Guida per le discipline STEM
       - *Utilizzare metodologie attive e collaborative*
